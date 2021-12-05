@@ -1,6 +1,5 @@
 package department;
 
-import hrDepartment.hrDepartment;
 
 public class superDepartment {
 	public String getDepartmentName;

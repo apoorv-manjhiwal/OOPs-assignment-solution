@@ -4,7 +4,7 @@ import department.superDepartment;
 
 public class Driver {
 	public static void main(String[] args) {
-		department superDepartment = new superDepartment();
+		superDepartment superDepartment = new superDepartment();
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("enter your department");
@@ -16,9 +16,7 @@ public class Driver {
 		superDepartment cs = new superDepartment();
 		String printOption;
 		
-		if (option == 1) {
-			printOption = 
-		}
+		
 		
 		
   
